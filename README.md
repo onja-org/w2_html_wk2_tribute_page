@@ -1,7 +1,9 @@
 # HTML, Week 2 — Tribute Page
 
 **Day:** 1
+
 **Estimated time:** 2 hours
+
 **Block:** HTML · Week 2
 
 ---
@@ -103,4 +105,7 @@ If something looks wrong:
 3. **Check the CSS path** — Make sure `index.html` links to `../styles.css` (one level up)
 4. **Compare to screenshots** — Side-by-side comparison of your page vs. the reference images is the best way to spot what's missing
 
-Remember: Debugging is like being the detective in a crime movie where you are also the murderer. 😜
+Remember: Debugging is like being the detective in a crime movie where you are also the murderer.
+
+
+*HTML · week 2 · Coding System Wave 2*
