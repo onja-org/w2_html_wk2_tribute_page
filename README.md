@@ -61,10 +61,6 @@ When it matches the screenshots, you're done!
 
 ---
 
-*Block HTML · Week 2*
-
----
-
 ## Your task
 
 Build a tribute page for Dr. Norman Borlaug with three semantic sections:
