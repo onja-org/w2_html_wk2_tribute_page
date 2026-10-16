@@ -11,6 +11,7 @@
 ## How this lab works
 
 ```
+w2_html_wk2_tribute_page/
 ├── lab/
 │   ├── instructions.md   ← Start here. Read this first.
 │   ├── index.html        ← Build your tribute page here
