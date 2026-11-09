@@ -59,10 +59,11 @@ The CSS relies on these specific IDs. **Use them exactly as written:**
 
 4. **Add the image inside the container** — Use `<img>` tag:
    ```html
-   <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute_page/norman_borlaug.jpg" alt="Dr. Norman Borlaug" />
+   <img src="./assets/norman_borlaug.jpg" alt="Dr. Norman Borlaug" />
    ```
+   The image file is already in the `lab/assets/` folder, so you don't need to download anything.
 
-5. **Add the image caption** — Use a `<p>` tag with `id="img-caption"`:
+5. **Add the image caption** — Use a `<p>` tag with `id="img-caption"`. Put it **inside** the `<div id="img-div">`, right after the `<img>`, so it matches the screenshot:
    ```html
    <p id="img-caption">Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.</p>
    ```

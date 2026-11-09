@@ -2,7 +2,7 @@
 
 **Day:** 1
 
-**Estimated time:** 2 hours
+**Estimated time:** 1 hour
 
 **Block:** HTML · Week 2
 
@@ -15,7 +15,7 @@ w2_html_wk2_tribute_page/
 ├── lab/
 │   ├── instructions.md   ← Start here. Read this first.
 │   ├── index.html        ← Build your tribute page here
-│   └── assets/           ← Reference screenshots
+│   └── assets/           ← The Borlaug photo (norman_borlaug.jpg) and reference screenshots
 ├── styles.css            ← Pre-written CSS (don't edit)
 └── README.md             ← You are here
 ```
@@ -48,8 +48,8 @@ When it matches the screenshots, you're done!
 
 ## Getting stuck
 
-1. Re-read the relevant section of the lesson
-2. Check the "Common mistakes" table in the lesson
+1. Re-read the relevant step in `lab/instructions.md`
+2. Check the "Common mistakes" table at the bottom of `lab/instructions.md`
 3. Search the error message — copy it exactly into Google or your AI tool
 4. Ask in the group chat — share your error message and what you've already tried
 5. Escalate to your mentor only if steps 1–4 haven't resolved it
